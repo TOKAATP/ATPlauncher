@@ -1,0 +1,702 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-26T18:53:04.163Z",
+  "files": [
+    {
+      "path": "mods/.connector/Axiom-5.2.1-for-MC1.20.1$axiomclientapi_mapped_srg_1.20.1.jar",
+      "sha1": "f4f42061f32f6944a1d300977e2f73e2a2e8e82f",
+      "url": "https://yourhost.com/mods/.connector/Axiom-5.2.1-for-MC1.20.1$axiomclientapi_mapped_srg_1.20.1.jar",
+      "size": 23153
+    },
+    {
+      "path": "mods/.connector/Axiom-5.2.1-for-MC1.20.1$lattice-1.3.0_mapped_srg_1.20.1.jar",
+      "sha1": "743e2967772820d5e4833c29a64a6db244919e2d",
+      "url": "https://yourhost.com/mods/.connector/Axiom-5.2.1-for-MC1.20.1$lattice-1.3.0_mapped_srg_1.20.1.jar",
+      "size": 172308
+    },
+    {
+      "path": "mods/.connector/Axiom-5.2.1-for-MC1.20.1$mixinconstraints-1.0.9_mapped_srg_1.20.1.jar",
+      "sha1": "0636af735f66b223bb322b36598836aba3d68207",
+      "url": "https://yourhost.com/mods/.connector/Axiom-5.2.1-for-MC1.20.1$mixinconstraints-1.0.9_mapped_srg_1.20.1.jar",
+      "size": 30006
+    },
+    {
+      "path": "mods/.connector/Axiom-5.2.1-for-MC1.20.1_mapped_srg_1.20.1.jar",
+      "sha1": "30d2ed073464e1cdd6bf152e1d75e5e47968a67b",
+      "url": "https://yourhost.com/mods/.connector/Axiom-5.2.1-for-MC1.20.1_mapped_srg_1.20.1.jar",
+      "size": 43658280
+    },
+    {
+      "path": "mods/.connector/litematica-fabric-1.20.1-0.15.0_mapped_srg_1.20.1.jar",
+      "sha1": "336112d635edf8a0be3a8e0f8b502a64a8a3ea2a",
+      "url": "https://yourhost.com/mods/.connector/litematica-fabric-1.20.1-0.15.0_mapped_srg_1.20.1.jar",
+      "size": 912847
+    },
+    {
+      "path": "mods/.connector/malilib-fabric-1.20.1-0.16.2_mapped_srg_1.20.1.jar",
+      "sha1": "d56c03db06cabb55528672365d5bb39683f0ee1d",
+      "url": "https://yourhost.com/mods/.connector/malilib-fabric-1.20.1-0.16.2_mapped_srg_1.20.1.jar",
+      "size": 543124
+    },
+    {
+      "path": "mods/.connector/temp/Axiom-5.2.1-for-MC1.20.1$axiomclientapi.jar",
+      "sha1": "c35b28ae6336dc3a7a43f2a8fa9a2fbeed25cb61",
+      "url": "https://yourhost.com/mods/.connector/temp/Axiom-5.2.1-for-MC1.20.1$axiomclientapi.jar",
+      "size": 21069
+    },
+    {
+      "path": "mods/.connector/temp/Axiom-5.2.1-for-MC1.20.1$lattice-1.3.0.jar",
+      "sha1": "74d2d7e0ba4912657d980a43ef86751aadd20cae",
+      "url": "https://yourhost.com/mods/.connector/temp/Axiom-5.2.1-for-MC1.20.1$lattice-1.3.0.jar",
+      "size": 165606
+    },
+    {
+      "path": "mods/.connector/temp/Axiom-5.2.1-for-MC1.20.1$mixinconstraints-1.0.9.jar",
+      "sha1": "0d42e2f75776a212a21aacafc49b2c04b82b5a57",
+      "url": "https://yourhost.com/mods/.connector/temp/Axiom-5.2.1-for-MC1.20.1$mixinconstraints-1.0.9.jar",
+      "size": 28587
+    },
+    {
+      "path": "mods/.connector/temp/Axiom-5.2.1-for-MC1.20.1$mixinextras-fabric-0.3.5.jar",
+      "sha1": "3b577be20ea942610b3045e4f0cd909fa415a9d3",
+      "url": "https://yourhost.com/mods/.connector/temp/Axiom-5.2.1-for-MC1.20.1$mixinextras-fabric-0.3.5.jar",
+      "size": 175184
+    },
+    {
+      "path": "mods/.connector/temp/malilib-fabric-1.20.1-0.16.2$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar",
+      "sha1": "94dc0c900b801c263deb01a0e6e1ecc9ef7ea20c",
+      "url": "https://yourhost.com/mods/.connector/temp/malilib-fabric-1.20.1-0.16.2$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar",
+      "size": 91499
+    },
+    {
+      "path": "mods/abnormals_delight-1.20.1-5.0.1.jar",
+      "sha1": "51592012aebc640000ca7a4bf9a03e74718a9761",
+      "url": "https://yourhost.com/mods/abnormals_delight-1.20.1-5.0.1.jar",
+      "size": 614066
+    },
+    {
+      "path": "mods/AI-Improvements-1.20-0.5.2.jar",
+      "sha1": "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8",
+      "url": "https://yourhost.com/mods/AI-Improvements-1.20-0.5.2.jar",
+      "size": 29553
+    },
+    {
+      "path": "mods/alexscaves-2.0.2.jar",
+      "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53",
+      "url": "https://yourhost.com/mods/alexscaves-2.0.2.jar",
+      "size": 74871657
+    },
+    {
+      "path": "mods/alternate_current-mc1.20-1.7.0.jar",
+      "sha1": "02def44a2c416459ee5daecbe1caa6d78571e205",
+      "url": "https://yourhost.com/mods/alternate_current-mc1.20-1.7.0.jar",
+      "size": 36703
+    },
+    {
+      "path": "mods/another_furniture-forge-1.20.1-3.0.4.jar",
+      "sha1": "bffc5f4d6ae0a906222990c9d0fa8a632b2aa8ed",
+      "url": "https://yourhost.com/mods/another_furniture-forge-1.20.1-3.0.4.jar",
+      "size": 2463633
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "url": "https://yourhost.com/mods/architectury-9.2.14-forge.jar",
+      "size": 580602
+    },
+    {
+      "path": "mods/arsdelight-1.2.2.jar",
+      "sha1": "0ce119870b6d8697c9d99e5e780a3635928fff8c",
+      "url": "https://yourhost.com/mods/arsdelight-1.2.2.jar",
+      "size": 1212653
+    },
+    {
+      "path": "mods/ars_nouveau-1.20.1-4.12.7-all.jar",
+      "sha1": "6c23a97d771ea7ad43bee9bd71d2f2a1f2084170",
+      "url": "https://yourhost.com/mods/ars_nouveau-1.20.1-4.12.7-all.jar",
+      "size": 12430237
+    },
+    {
+      "path": "mods/Axiom-5.2.1-for-MC1.20.1.jar",
+      "sha1": "6b7baa084f10166d7d9924bc6a5b702fc2cc0ca2",
+      "url": "https://yourhost.com/mods/Axiom-5.2.1-for-MC1.20.1.jar",
+      "size": 44171726
+    },
+    {
+      "path": "mods/balm-forge-1.20.1-7.3.41-all.jar",
+      "sha1": "5a5e8cb3d47cf72a740bc51308acc6a8f1323128",
+      "url": "https://yourhost.com/mods/balm-forge-1.20.1-7.3.41-all.jar",
+      "size": 559741
+    },
+    {
+      "path": "mods/barbequesdelight-1.0.6.jar",
+      "sha1": "6aa64c4116acb718880e343fb8ca2884a4e4f52f",
+      "url": "https://yourhost.com/mods/barbequesdelight-1.0.6.jar",
+      "size": 868227
+    },
+    {
+      "path": "mods/blueprint-1.20.1-7.1.4.jar",
+      "sha1": "10ee193ad755b03eceb0791a6f5257755feebcfe",
+      "url": "https://yourhost.com/mods/blueprint-1.20.1-7.1.4.jar",
+      "size": 1165189
+    },
+    {
+      "path": "mods/BrewinAndChewin-1.20.1-3.2.1.jar",
+      "sha1": "b11a91386ef9da2569b69fd4c229b1c31dcc2eb9",
+      "url": "https://yourhost.com/mods/BrewinAndChewin-1.20.1-3.2.1.jar",
+      "size": 1206255
+    },
+    {
+      "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar",
+      "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
+      "url": "https://yourhost.com/mods/carryon-forge-1.20.1-2.1.2.7.jar",
+      "size": 439457
+    },
+    {
+      "path": "mods/Cave-Delight-1.20.1-2.0.1.jar",
+      "sha1": "d5c6f11d5f86ffa604de3564173d6ee658a0b39d",
+      "url": "https://yourhost.com/mods/Cave-Delight-1.20.1-2.0.1.jar",
+      "size": 395722
+    },
+    {
+      "path": "mods/chefsdelight-1.0.4-forge-1.20.1.jar",
+      "sha1": "4bb324dcad6b13df4ecbfa4d9c46664a5ee8da6f",
+      "url": "https://yourhost.com/mods/chefsdelight-1.0.4-forge-1.20.1.jar",
+      "size": 98303
+    },
+    {
+      "path": "mods/chewy_cheeses-0.3.1.jar",
+      "sha1": "e8538e5bf0a4473ad23fc8ccea375895dbc8fc97",
+      "url": "https://yourhost.com/mods/chewy_cheeses-0.3.1.jar",
+      "size": 258975
+    },
+    {
+      "path": "mods/chunksmith-3.1.1+1.20.1-forge.jar",
+      "sha1": "70d947665c0c3223390f818a699178a2797c2fa9",
+      "url": "https://yourhost.com/mods/chunksmith-3.1.1+1.20.1-forge.jar",
+      "size": 513987
+    },
+    {
+      "path": "mods/citadel-2.6.3-1.20.1.jar",
+      "sha1": "fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316",
+      "url": "https://yourhost.com/mods/citadel-2.6.3-1.20.1.jar",
+      "size": 3185275
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+      "url": "https://yourhost.com/mods/cloth-config-11.1.136-forge.jar",
+      "size": 1181413
+    },
+    {
+      "path": "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "sha1": "8809c7aa6c71389e9c59abfe5def52c1cb8d4f1c",
+      "url": "https://yourhost.com/mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "size": 20300
+    },
+    {
+      "path": "mods/cocktails-Delight-1.20.1-1.3.1.jar",
+      "sha1": "0754e1c69a5f151ca49d1c7873f6c174925f9930",
+      "url": "https://yourhost.com/mods/cocktails-Delight-1.20.1-1.3.1.jar",
+      "size": 212375
+    },
+    {
+      "path": "mods/collective-1.20.1-8.39.jar",
+      "sha1": "4622cf120fd3eb82972dc6634d6a5910d04e3c91",
+      "url": "https://yourhost.com/mods/collective-1.20.1-8.39.jar",
+      "size": 745947
+    },
+    {
+      "path": "mods/compatdelight-1.0.1.1.jar",
+      "sha1": "b494f8e95baceb6606986a93849d6dd7f535ea45",
+      "url": "https://yourhost.com/mods/compatdelight-1.0.1.1.jar",
+      "size": 2081238
+    },
+    {
+      "path": "mods/Compat_FarmersDelight.jar",
+      "sha1": "8033b3054b6d4e49e3d49b2277cf6e7c047835f1",
+      "url": "https://yourhost.com/mods/Compat_FarmersDelight.jar",
+      "size": 32216
+    },
+    {
+      "path": "mods/Connector-1.0.0-beta.49+1.20.1.jar",
+      "sha1": "2b167110353c0622939a674b80ae35b1ed6b5625",
+      "url": "https://yourhost.com/mods/Connector-1.0.0-beta.49+1.20.1.jar",
+      "size": 5046109
+    },
+    {
+      "path": "mods/crabbersdelight-1.20.1-1.2.3.jar",
+      "sha1": "30c4aeed44a5302ebea5c3ce98fdd73dfbded868",
+      "url": "https://yourhost.com/mods/crabbersdelight-1.20.1-1.2.3.jar",
+      "size": 619166
+    },
+    {
+      "path": "mods/create-1.20.1-6.0.8.jar",
+      "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9",
+      "url": "https://yourhost.com/mods/create-1.20.1-6.0.8.jar",
+      "size": 19170905
+    },
+    {
+      "path": "mods/create_central_kitchen-1.20.1-for-create-6.0.8-1.5.0.jar",
+      "sha1": "bb724b37b191f6bcbe1e6bc395742e50352e8dbc",
+      "url": "https://yourhost.com/mods/create_central_kitchen-1.20.1-for-create-6.0.8-1.5.0.jar",
+      "size": 835363
+    },
+    {
+      "path": "mods/ctov-3.3.3.jar",
+      "sha1": "0320991b7db36e841e1351551238f447c557cb4b",
+      "url": "https://yourhost.com/mods/ctov-3.3.3.jar",
+      "size": 4281222
+    },
+    {
+      "path": "mods/ctov-chefs-delight-compat-2.0.jar",
+      "sha1": "6121998a194a0f423ba3bf199110d98f95dfb2fd",
+      "url": "https://yourhost.com/mods/ctov-chefs-delight-compat-2.0.jar",
+      "size": 100334
+    },
+    {
+      "path": "mods/culturaldelights-0.16.7.jar",
+      "sha1": "20288317274a146267a0cc8c19dcc8898cb71c0a",
+      "url": "https://yourhost.com/mods/culturaldelights-0.16.7.jar",
+      "size": 267386
+    },
+    {
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+      "url": "https://yourhost.com/mods/curios-forge-5.14.1+1.20.1.jar",
+      "size": 398066
+    },
+    {
+      "path": "mods/Delightful-1.20.1-3.8.1.jar",
+      "sha1": "4fff88037d3535158e0ab19525887768e9fc647a",
+      "url": "https://yourhost.com/mods/Delightful-1.20.1-3.8.1.jar",
+      "size": 1774007
+    },
+    {
+      "path": "mods/delightfulburgers-1.20.1.jar",
+      "sha1": "6cb9c2a1486e63b9a7225c8ea02654a0d9b84ee4",
+      "url": "https://yourhost.com/mods/delightfulburgers-1.20.1.jar",
+      "size": 15907
+    },
+    {
+      "path": "mods/delightfulcreators-1.1.8.jar",
+      "sha1": "297fb89cf2f159c3172664b5e82a9364e9028862",
+      "url": "https://yourhost.com/mods/delightfulcreators-1.1.8.jar",
+      "size": 355042
+    },
+    {
+      "path": "mods/delightfulsandwich-1.20.1.jar",
+      "sha1": "ebd56e042a32bf9adaa696b2f548b0171d8672ff",
+      "url": "https://yourhost.com/mods/delightfulsandwich-1.20.1.jar",
+      "size": 19574
+    },
+    {
+      "path": "mods/delightful_slaughter-1.0-1.20.1.jar",
+      "sha1": "faaf9454eee75beca14e9e0f4da6f4beb0e68873",
+      "url": "https://yourhost.com/mods/delightful_slaughter-1.0-1.20.1.jar",
+      "size": 252325
+    },
+    {
+      "path": "mods/delightlib-26.05.18-1.20-forge.jar",
+      "sha1": "76dadc17034ef4603f9ffb433dc01c5f770aa59d",
+      "url": "https://yourhost.com/mods/delightlib-26.05.18-1.20-forge.jar",
+      "size": 59764
+    },
+    {
+      "path": "mods/displaydelight-1.7.0.jar",
+      "sha1": "ee5cd8126ec4053a6a50ae1f2af434b91ab6d42e",
+      "url": "https://yourhost.com/mods/displaydelight-1.7.0.jar",
+      "size": 1163304
+    },
+    {
+      "path": "mods/Dumplings Delight-1.20.1-Forge-1.3.2.jar",
+      "sha1": "5e2e4cb2ed140f27c5a07daea0ec0881ae3b5327",
+      "url": "https://yourhost.com/mods/Dumplings Delight-1.20.1-Forge-1.3.2.jar",
+      "size": 305569
+    },
+    {
+      "path": "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "sha1": "fcff067375cfe917cbf235218f49ceb58e598a5c",
+      "url": "https://yourhost.com/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "size": 680255
+    },
+    {
+      "path": "mods/exposure-forge-1.20.1-1.9.21.jar",
+      "sha1": "39bd780eec2f22b3f9c9324b5e1c1b0c206e64a6",
+      "url": "https://yourhost.com/mods/exposure-forge-1.20.1-1.9.21.jar",
+      "size": 2249297
+    },
+    {
+      "path": "mods/exposure_catalog-forge-1.20.1-1.1.1.jar",
+      "sha1": "652fb3e1942c9069a2071316d02eacfab2653aa5",
+      "url": "https://yourhost.com/mods/exposure_catalog-forge-1.20.1-1.1.1.jar",
+      "size": 330210
+    },
+    {
+      "path": "mods/extrapanic-1.0.1.jar",
+      "sha1": "469ccde255d65c516bc33bd4926e327cc5029a54",
+      "url": "https://yourhost.com/mods/extrapanic-1.0.1.jar",
+      "size": 12343
+    },
+    {
+      "path": "mods/fabric-api-0.85.0+1.20.1.jar",
+      "sha1": "02ae17b8122b176f2884cae49af440e27bee7161",
+      "url": "https://yourhost.com/mods/fabric-api-0.85.0+1.20.1.jar",
+      "size": 1977969
+    },
+    {
+      "path": "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+      "sha1": "285c22b2567b9fdf98ef9808eceb5557de9611d3",
+      "url": "https://yourhost.com/mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+      "size": 3065813
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.3.2.jar",
+      "sha1": "397763ae36dc2e0f526e0338c875850437580157",
+      "url": "https://yourhost.com/mods/FarmersDelight-1.20.1-1.3.2.jar",
+      "size": 3313327
+    },
+    {
+      "path": "mods/farmersrespite-1.20.1-2.1.2.jar",
+      "sha1": "9ae5bc246cb1a8f3573ab685a4e9ddfaf869e2de",
+      "url": "https://yourhost.com/mods/farmersrespite-1.20.1-2.1.2.jar",
+      "size": 537307
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "url": "https://yourhost.com/mods/ferritecore-6.0.1-forge.jar",
+      "size": 123034
+    },
+    {
+      "path": "mods/festive_delight-2.0.0-forge-1.20.1.jar",
+      "sha1": "445d002a5e15e231f4489858543ac1bc40d6291d",
+      "url": "https://yourhost.com/mods/festive_delight-2.0.0-forge-1.20.1.jar",
+      "size": 267057
+    },
+    {
+      "path": "mods/frycooks_delight-1.20.1-1.0.1.jar",
+      "sha1": "bf86c4f0679dffe23cfb2d50f5b0669c8427d1ed",
+      "url": "https://yourhost.com/mods/frycooks_delight-1.20.1-1.0.1.jar",
+      "size": 234489
+    },
+    {
+      "path": "mods/furnitury-3.0707-forge-1.20.1.jar",
+      "sha1": "a02ee5e4d78987c75ee3be0c4faad1b3fe3fbc80",
+      "url": "https://yourhost.com/mods/furnitury-3.0707-forge-1.20.1.jar",
+      "size": 1601927
+    },
+    {
+      "path": "mods/fzzy_config-0.7.6+1.20.1+forge.jar",
+      "sha1": "2e9ca1c5f028c251e1bc18b9ebaa06d401c8e624",
+      "url": "https://yourhost.com/mods/fzzy_config-0.7.6+1.20.1+forge.jar",
+      "size": 2374667
+    },
+    {
+      "path": "mods/handcrafted-forge-1.20.1-3.0.6.jar",
+      "sha1": "f1b9a009529134c736c59d6d192d53a4a25e5e5f",
+      "url": "https://yourhost.com/mods/handcrafted-forge-1.20.1-3.0.6.jar",
+      "size": 7111059
+    },
+    {
+      "path": "mods/handoveryouritems-1.20.1-3.8.jar",
+      "sha1": "17a6f3d52b4cf7d5d29598a27a07c805831a99be",
+      "url": "https://yourhost.com/mods/handoveryouritems-1.20.1-3.8.jar",
+      "size": 25790
+    },
+    {
+      "path": "mods/hardcorerevival-forge-1.20.1-12.0.14.jar",
+      "sha1": "3adc7f26b74306606feee83e45f1b6faeb8ae783",
+      "url": "https://yourhost.com/mods/hardcorerevival-forge-1.20.1-12.0.14.jar",
+      "size": 243520
+    },
+    {
+      "path": "mods/immersive_paintings-0.6.13+1.20.1-forge.jar",
+      "sha1": "3f2a668f2235a6a908fde545d140013456b5412f",
+      "url": "https://yourhost.com/mods/immersive_paintings-0.6.13+1.20.1-forge.jar",
+      "size": 4856103
+    },
+    {
+      "path": "mods/Jellyfishing-2.0.5.jar",
+      "sha1": "2a587b1ad0d3799ce42cad1a165aa183815b06b3",
+      "url": "https://yourhost.com/mods/Jellyfishing-2.0.5.jar",
+      "size": 21203260
+    },
+    {
+      "path": "mods/jellyfishingdelight-1.0.6.jar",
+      "sha1": "6b595ae47f5a47cdd8fa24164d949cc80496d8b4",
+      "url": "https://yourhost.com/mods/jellyfishingdelight-1.0.6.jar",
+      "size": 258305
+    },
+    {
+      "path": "mods/kotlinforforge-4.12.0-all.jar",
+      "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22",
+      "url": "https://yourhost.com/mods/kotlinforforge-4.12.0-all.jar",
+      "size": 7442998
+    },
+    {
+      "path": "mods/Krypton Reno-forge-1.20.1-26.1.1-1.20.1.jar",
+      "sha1": "bfa957bfa1f477f2cba4bd7fdf0e803095f80621",
+      "url": "https://yourhost.com/mods/Krypton Reno-forge-1.20.1-26.1.1-1.20.1.jar",
+      "size": 1793920
+    },
+    {
+      "path": "mods/letsdo-bakery-forge-2.0.6.jar",
+      "sha1": "75f35ba47c07d4af5b8b4e05fcffb74fc1583685",
+      "url": "https://yourhost.com/mods/letsdo-bakery-forge-2.0.6.jar",
+      "size": 1222186
+    },
+    {
+      "path": "mods/letsdo-brewery-forge-2.0.6.jar",
+      "sha1": "ce364781ec9accfdd5bb04f8280ffb542243b1ae",
+      "url": "https://yourhost.com/mods/letsdo-brewery-forge-2.0.6.jar",
+      "size": 2048413
+    },
+    {
+      "path": "mods/letsdo-candlelight-forge-2.0.5.jar",
+      "sha1": "67b5560125db588cb1d87c042cc9dce9833861d7",
+      "url": "https://yourhost.com/mods/letsdo-candlelight-forge-2.0.5.jar",
+      "size": 2507744
+    },
+    {
+      "path": "mods/letsdo-farm_and_charm-forge-1.0.14.jar",
+      "sha1": "4db017c18fff8356e1aa5f0e9c683f1af30bec2b",
+      "url": "https://yourhost.com/mods/letsdo-farm_and_charm-forge-1.0.14.jar",
+      "size": 2328624
+    },
+    {
+      "path": "mods/letsdo-vinery-forge-1.4.41.jar",
+      "sha1": "68ed3fa9524bef601064f49f60a30423db2f8fdc",
+      "url": "https://yourhost.com/mods/letsdo-vinery-forge-1.4.41.jar",
+      "size": 2041283
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "sha1": "fe6a9eb2fbc78300a6286fd25854c9f087e689a6",
+      "url": "https://yourhost.com/mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "size": 1246753
+    },
+    {
+      "path": "mods/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "sha1": "214da89b2153d496343bde8626283975e358edbd",
+      "url": "https://yourhost.com/mods/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "size": 1320692
+    },
+    {
+      "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8",
+      "url": "https://yourhost.com/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "size": 37178
+    },
+    {
+      "path": "mods/memoryleakfix-forge-1.17+-1.1.5.jar",
+      "sha1": "9f60142dd94631800386a16a4ad70ad9e84cd78a",
+      "url": "https://yourhost.com/mods/memoryleakfix-forge-1.17+-1.1.5.jar",
+      "size": 227925
+    },
+    {
+      "path": "mods/modernfix-forge-5.27.66+mc1.20.1.jar",
+      "sha1": "322fdb7aadc06b540cff69a2a0a513bf37050f0f",
+      "url": "https://yourhost.com/mods/modernfix-forge-5.27.66+mc1.20.1.jar",
+      "size": 1002234
+    },
+    {
+      "path": "mods/moonlight-1.20-2.16.34-forge.jar",
+      "sha1": "5e20f2f0ce56a534accb32f80853d5a246599a4d",
+      "url": "https://yourhost.com/mods/moonlight-1.20-2.16.34-forge.jar",
+      "size": 1419416
+    },
+    {
+      "path": "mods/moredelight-26.05.20-1.20-forge.jar",
+      "sha1": "42a481b7273aa19d57ea63a89fc100558d1844e4",
+      "url": "https://yourhost.com/mods/moredelight-26.05.20-1.20-forge.jar",
+      "size": 144021
+    },
+    {
+      "path": "mods/muffins-thai-delight-forge-1.0.0.jar",
+      "sha1": "b34356aad368606e0e8ff85ec59fa7d523680e57",
+      "url": "https://yourhost.com/mods/muffins-thai-delight-forge-1.0.0.jar",
+      "size": 624367
+    },
+    {
+      "path": "mods/Pehkui-3.8.2+1.20.1-forge.jar",
+      "sha1": "4bc816efdd8e5e2a97423313674401351710e403",
+      "url": "https://yourhost.com/mods/Pehkui-3.8.2+1.20.1-forge.jar",
+      "size": 671605
+    },
+    {
+      "path": "mods/pizzadelight-1.0.1-1.20.1.jar",
+      "sha1": "ff0452c626becc214f9ae45d0a9073aac77811df",
+      "url": "https://yourhost.com/mods/pizzadelight-1.0.1-1.20.1.jar",
+      "size": 65699
+    },
+    {
+      "path": "mods/plasmovoice-forge-1.20.1-2.1.13.jar",
+      "sha1": "1c9e872e8873bc8bbcf84166beaeb0259dda10e3",
+      "url": "https://yourhost.com/mods/plasmovoice-forge-1.20.1-2.1.13.jar",
+      "size": 12299890
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+      "url": "https://yourhost.com/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "size": 181437
+    },
+    {
+      "path": "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "sha1": "285b7c7616971338ccbe0022c9ea0f8ad3036aaf",
+      "url": "https://yourhost.com/mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "size": 1342987
+    },
+    {
+      "path": "mods/pv-addon-broadcast-1.1.1.jar",
+      "sha1": "cb171eb5057096cb89ec066af9a755013d11356e",
+      "url": "https://yourhost.com/mods/pv-addon-broadcast-1.1.1.jar",
+      "size": 60259
+    },
+    {
+      "path": "mods/pv-addon-priority-1.1.0.jar",
+      "sha1": "2cd7ec35c39c70b9756941db92a593c48793b358",
+      "url": "https://yourhost.com/mods/pv-addon-priority-1.1.0.jar",
+      "size": 13790
+    },
+    {
+      "path": "mods/pv-addon-whisper-1.1.0.jar",
+      "sha1": "8574c97808bb9a006fe0d2574714b67e98b42255",
+      "url": "https://yourhost.com/mods/pv-addon-whisper-1.1.0.jar",
+      "size": 17002
+    },
+    {
+      "path": "mods/Quick Skin - Forge - 1.20.1-2.6.2.4.jar",
+      "sha1": "ace85ce63a791ae84d323d469d0b76003ab32718",
+      "url": "https://yourhost.com/mods/Quick Skin - Forge - 1.20.1-2.6.2.4.jar",
+      "size": 3793684
+    },
+    {
+      "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+      "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a",
+      "url": "https://yourhost.com/mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+      "size": 713454
+    },
+    {
+      "path": "mods/RamadanDelight-1.20.1-1.7.jar",
+      "sha1": "1dd2dca458013f3ce3e0e8e9c44b36b8c8dda3af",
+      "url": "https://yourhost.com/mods/RamadanDelight-1.20.1-1.7.jar",
+      "size": 529603
+    },
+    {
+      "path": "mods/recipe_modification-neoforge-1.20.1-0.1.1.jar",
+      "sha1": "36303a0050fa2ee1e84f2aa9e3db68b0f1cc554c",
+      "url": "https://yourhost.com/mods/recipe_modification-neoforge-1.20.1-0.1.1.jar",
+      "size": 55164
+    },
+    {
+      "path": "mods/redeco-1.14.1-forge-1.20.1.jar",
+      "sha1": "edbdd3ecfacb8bec82cb42878e3999582c3bd53d",
+      "url": "https://yourhost.com/mods/redeco-1.14.1-forge-1.20.1.jar",
+      "size": 3216552
+    },
+    {
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
+      "url": "https://yourhost.com/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "size": 432753
+    },
+    {
+      "path": "mods/rusticdelight-forge-1.20.1-1.6.1.jar",
+      "sha1": "b86a272376b2b4aa8af88b973c67d01aac01d883",
+      "url": "https://yourhost.com/mods/rusticdelight-forge-1.20.1-1.6.1.jar",
+      "size": 565773
+    },
+    {
+      "path": "mods/SeedDelight-NeoorForge-1.20.1-1.0.1 (1).jar",
+      "sha1": "4e3fe5b22cc6d0fac4863b61f4692a59bf233855",
+      "url": "https://yourhost.com/mods/SeedDelight-NeoorForge-1.20.1-1.0.1 (1).jar",
+      "size": 95795
+    },
+    {
+      "path": "mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+      "sha1": "3fd79132dba444bd109b5de4ad75dee06a48e130",
+      "url": "https://yourhost.com/mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+      "size": 41044
+    },
+    {
+      "path": "mods/stackedblocks-25.02.13-1.20-forge.jar",
+      "sha1": "762060f6654637013d51cd85a5025a9c92d0f228",
+      "url": "https://yourhost.com/mods/stackedblocks-25.02.13-1.20-forge.jar",
+      "size": 338388
+    },
+    {
+      "path": "mods/stackedblocksfarmersdelight-25.02.13-1.20-forge.jar",
+      "sha1": "f5d669c70e53eeb2618e2c445a9758f95a2a5f70",
+      "url": "https://yourhost.com/mods/stackedblocksfarmersdelight-25.02.13-1.20-forge.jar",
+      "size": 349319
+    },
+    {
+      "path": "mods/trailandtales_delight-1.7-all.jar",
+      "sha1": "e466d0a5d471220a329421c4f608814b45f6a43d",
+      "url": "https://yourhost.com/mods/trailandtales_delight-1.7-all.jar",
+      "size": 531393
+    },
+    {
+      "path": "mods/ubesdelight-forge-1.20.1-0.4.14.jar",
+      "sha1": "3458c3f285b697f31c2c35a7c57806a01489b0fa",
+      "url": "https://yourhost.com/mods/ubesdelight-forge-1.20.1-0.4.14.jar",
+      "size": 953622
+    },
+    {
+      "path": "mods/unusual_furniture-1.1.1-forge-1.20.1.jar",
+      "sha1": "e825024be7e6f1a11023737c7627a508e2fe0935",
+      "url": "https://yourhost.com/mods/unusual_furniture-1.1.1-forge-1.20.1.jar",
+      "size": 2907462
+    },
+    {
+      "path": "mods/vegandelight-2.0.0-beta4.jar",
+      "sha1": "2ffb57dc3f0f0c3de1be2871df4c0f8e7a7933df",
+      "url": "https://yourhost.com/mods/vegandelight-2.0.0-beta4.jar",
+      "size": 193512
+    },
+    {
+      "path": "mods/VeggiesDelight-1.20.1-1.9.3.jar",
+      "sha1": "783d60320cb58c677197bcebf5db72d0c1c7a727",
+      "url": "https://yourhost.com/mods/VeggiesDelight-1.20.1-1.9.3.jar",
+      "size": 598808
+    },
+    {
+      "path": "mods/vintagedelight-0.1.6.jar",
+      "sha1": "279a68afc8d815e957cabc689e925cdaf7578109",
+      "url": "https://yourhost.com/mods/vintagedelight-0.1.6.jar",
+      "size": 1120218
+    },
+    {
+      "path": "mods/vminus-3.3.2.jar",
+      "sha1": "2fcc79a165f88621bd6aa27827422ea36f07b3cc",
+      "url": "https://yourhost.com/mods/vminus-3.3.2.jar",
+      "size": 1221242
+    },
+    {
+      "path": "mods/WI-Zoom-1.5-MC1.20.1-Forge.jar",
+      "sha1": "de100712cf2b7187a23f5cd726b93e576592979b",
+      "url": "https://yourhost.com/mods/WI-Zoom-1.5-MC1.20.1-Forge.jar",
+      "size": 141897
+    },
+    {
+      "path": "mods/worldedit-mod-7.2.15.jar",
+      "sha1": "9c52765ca56f917ef8cbafc20e9a4f45c346508f",
+      "url": "https://yourhost.com/mods/worldedit-mod-7.2.15.jar",
+      "size": 5825402
+    },
+    {
+      "path": "mods/yet-another-furniture-1.0pre3+forge-1.20.1.jar",
+      "sha1": "01df9a0b0e806f5735458b98bda50800a929fdef",
+      "url": "https://yourhost.com/mods/yet-another-furniture-1.0pre3+forge-1.20.1.jar",
+      "size": 3977379
+    },
+    {
+      "path": "mods/youkaisfeasts-0.5.0.jar",
+      "sha1": "a222d3f549eaa2f5245a183a52f2b108d3f75744",
+      "url": "https://yourhost.com/mods/youkaisfeasts-0.5.0.jar",
+      "size": 4100077
+    }
+  ]
+}

@@ -1,12 +1,18 @@
 {
-  "version": 2,
-  "generatedAt": "2026-07-26T20:05:15.135Z",
+  "version": 3,
+  "generatedAt": "2026-08-03T10:40:44.415Z",
   "files": [
     {
-      "path": "mods/abnormals_delight-1.20.1-5.0.1.jar",
-      "sha1": "51592012aebc640000ca7a4bf9a03e74718a9761",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/abnormals_delight-1.20.1-5.0.1.jar",
-      "size": 614066
+      "path": "mods/aaa_particles-1.20.1-1.4.11-forge.jar",
+      "sha1": "e046caeff220722933cb82097a62412d902f6002",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/aaa_particles-1.20.1-1.4.11-forge.jar",
+      "size": 5255759
+    },
+    {
+      "path": "mods/aaa_particles_world-forge-1.20.1-1.0.3.jar",
+      "sha1": "0f37cb9ef6f329b7b493c344def711b3de2c48da",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/aaa_particles_world-forge-1.20.1-1.0.3.jar",
+      "size": 6821484
     },
     {
       "path": "mods/AI-Improvements-1.20-0.5.2.jar",
@@ -15,16 +21,16 @@
       "size": 29553
     },
     {
-      "path": "mods/alexscaves-2.0.2.jar",
-      "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/alexscaves-2.0.2.jar",
-      "size": 74871657
+      "path": "mods/almanac-1.20.x-forge-1.0.2.jar",
+      "sha1": "f0b711df59cd589b088e536ca4134c5e6e73fd58",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/almanac-1.20.x-forge-1.0.2.jar",
+      "size": 15906
     },
     {
-      "path": "mods/alternate_current-mc1.20-1.7.0.jar",
-      "sha1": "02def44a2c416459ee5daecbe1caa6d78571e205",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/alternate_current-mc1.20-1.7.0.jar",
-      "size": 36703
+      "path": "mods/AltOriginGui-forge-1.20.1-1.1.2.jar",
+      "sha1": "08b2ef846873db5ea75205190f49f60183cdad60",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/AltOriginGui-forge-1.20.1-1.1.2.jar",
+      "size": 204097
     },
     {
       "path": "mods/another_furniture-forge-1.20.1-3.0.4.jar",
@@ -33,46 +39,46 @@
       "size": 2463633
     },
     {
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "size": 47428
+    },
+    {
       "path": "mods/architectury-9.2.14-forge.jar",
       "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
       "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/architectury-9.2.14-forge.jar",
       "size": 580602
     },
     {
-      "path": "mods/arsdelight-1.2.2.jar",
-      "sha1": "0ce119870b6d8697c9d99e5e780a3635928fff8c",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/arsdelight-1.2.2.jar",
-      "size": 1212653
+      "path": "mods/BadOptimizations-2.3.1-1.20.1.jar",
+      "sha1": "05961374fb4e561e063168d058b155f8415c6697",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/BadOptimizations-2.3.1-1.20.1.jar",
+      "size": 452475
     },
     {
-      "path": "mods/ars_nouveau-1.20.1-4.12.7-all.jar",
-      "sha1": "6c23a97d771ea7ad43bee9bd71d2f2a1f2084170",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/ars_nouveau-1.20.1-4.12.7-all.jar",
-      "size": 12430237
+      "path": "mods/balm-forge-1.20.1-7.3.37-all.jar",
+      "sha1": "8ed877e61adf550c68aa4fc75d163ff97c0c5006",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/balm-forge-1.20.1-7.3.37-all.jar",
+      "size": 590487
     },
     {
-      "path": "mods/Axiom-5.2.1-for-MC1.20.1.jar",
-      "sha1": "6b7baa084f10166d7d9924bc6a5b702fc2cc0ca2",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Axiom-5.2.1-for-MC1.20.1.jar",
-      "size": 44171726
+      "path": "mods/barbequesdelight-1.0.5.jar",
+      "sha1": "e3fe166ccb3947d3c2cadcf58bdf104cf354bb0a",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/barbequesdelight-1.0.5.jar",
+      "size": 867081
     },
     {
-      "path": "mods/BadOptimizations-2.4.1-1.20.1.jar",
-      "sha1": "304007dcb0fb15ed1a1bc3771736470dafc5be0f",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/BadOptimizations-2.4.1-1.20.1.jar",
-      "size": 460234
+      "path": "mods/bendy-lib-forge-4.0.0.jar",
+      "sha1": "d1e77cc4534cecc753a7d2ba4e84dec412a55025",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/bendy-lib-forge-4.0.0.jar",
+      "size": 50745
     },
     {
-      "path": "mods/balm-forge-1.20.1-7.3.41-all.jar",
-      "sha1": "5a5e8cb3d47cf72a740bc51308acc6a8f1323128",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/balm-forge-1.20.1-7.3.41-all.jar",
-      "size": 559741
-    },
-    {
-      "path": "mods/barbequesdelight-1.0.6.jar",
-      "sha1": "6aa64c4116acb718880e343fb8ca2884a4e4f52f",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/barbequesdelight-1.0.6.jar",
-      "size": 868227
+      "path": "mods/bettercombat-forge-1.9.0+1.20.1.jar",
+      "sha1": "ea7e7247132cb3acacadd96b2b6b635c4cc63a74",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/bettercombat-forge-1.9.0+1.20.1.jar",
+      "size": 1054339
     },
     {
       "path": "mods/BetterF3-7.0.2-Forge-1.20.1.jar",
@@ -81,16 +87,28 @@
       "size": 468517
     },
     {
-      "path": "mods/blueprint-1.20.1-7.1.4.jar",
-      "sha1": "10ee193ad755b03eceb0791a6f5257755feebcfe",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/blueprint-1.20.1-7.1.4.jar",
-      "size": 1165189
+      "path": "mods/BetterGrassify-1.4.4+forge.1.20.1.jar",
+      "sha1": "189eedc5482ef515afcfa3d9c0752992664987fc",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/BetterGrassify-1.4.4+forge.1.20.1.jar",
+      "size": 330517
     },
     {
-      "path": "mods/BrewinAndChewin-1.20.1-3.2.1.jar",
-      "sha1": "b11a91386ef9da2569b69fd4c229b1c31dcc2eb9",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/BrewinAndChewin-1.20.1-3.2.1.jar",
-      "size": 1206255
+      "path": "mods/BlockPops - Forge - 1.20.1-1.5.0.jar",
+      "sha1": "4356537932640456500f64acc46f26f54d466c97",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/BlockPops - Forge - 1.20.1-1.5.0.jar",
+      "size": 5537942
+    },
+    {
+      "path": "mods/BuildersDelight-1.20.1-v.1.3.jar",
+      "sha1": "ad9053d0711da8157f6dbe2cc7083f17fe7aa831",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/BuildersDelight-1.20.1-v.1.3.jar",
+      "size": 4580734
+    },
+    {
+      "path": "mods/caelus-forge-3.2.0+1.20.1.jar",
+      "sha1": "d14e8ee892d4d8764f523ad0e89bdcfc061fb007",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/caelus-forge-3.2.0+1.20.1.jar",
+      "size": 40125
     },
     {
       "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar",
@@ -99,34 +117,16 @@
       "size": 439457
     },
     {
-      "path": "mods/Cave-Delight-1.20.1-2.0.1.jar",
-      "sha1": "d5c6f11d5f86ffa604de3564173d6ee658a0b39d",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Cave-Delight-1.20.1-2.0.1.jar",
-      "size": 395722
+      "path": "mods/Chunky-1.3.146.jar",
+      "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Chunky-1.3.146.jar",
+      "size": 341451
     },
     {
-      "path": "mods/chefsdelight-1.0.4-forge-1.20.1.jar",
-      "sha1": "4bb324dcad6b13df4ecbfa4d9c46664a5ee8da6f",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/chefsdelight-1.0.4-forge-1.20.1.jar",
-      "size": 98303
-    },
-    {
-      "path": "mods/chewy_cheeses-0.3.1.jar",
-      "sha1": "e8538e5bf0a4473ad23fc8ccea375895dbc8fc97",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/chewy_cheeses-0.3.1.jar",
-      "size": 258975
-    },
-    {
-      "path": "mods/chunksmith-3.1.1+1.20.1-forge.jar",
-      "sha1": "70d947665c0c3223390f818a699178a2797c2fa9",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/chunksmith-3.1.1+1.20.1-forge.jar",
-      "size": 513987
-    },
-    {
-      "path": "mods/citadel-2.6.3-1.20.1.jar",
-      "sha1": "fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/citadel-2.6.3-1.20.1.jar",
-      "size": 3185275
+      "path": "mods/citadel-2.6.2-1.20.1.jar",
+      "sha1": "06866f4005d3f6ba63ac01f715b352842d809bbd",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/citadel-2.6.2-1.20.1.jar",
+      "size": 3185379
     },
     {
       "path": "mods/cloth-config-11.1.136-forge.jar",
@@ -135,82 +135,58 @@
       "size": 1181413
     },
     {
-      "path": "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
-      "sha1": "8809c7aa6c71389e9c59abfe5def52c1cb8d4f1c",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Clumps-forge-1.20.1-12.0.0.4.jar",
-      "size": 20300
+      "path": "mods/collective-1.20.1-8.13.jar",
+      "sha1": "74b917dd99cd97b2f0480628a1b56958f5e0f5ad",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/collective-1.20.1-8.13.jar",
+      "size": 665169
     },
     {
-      "path": "mods/cocktails-Delight-1.20.1-1.3.1.jar",
-      "sha1": "0754e1c69a5f151ca49d1c7873f6c174925f9930",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/cocktails-Delight-1.20.1-1.3.1.jar",
-      "size": 212375
+      "path": "mods/commandkeys-forge-2.4.0+1.20.1.jar",
+      "sha1": "cbcd10bccad4f4d98dd5f6c1130d945f9a16adc0",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/commandkeys-forge-2.4.0+1.20.1.jar",
+      "size": 433397
     },
     {
-      "path": "mods/collective-1.20.1-8.39.jar",
-      "sha1": "4622cf120fd3eb82972dc6634d6a5910d04e3c91",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/collective-1.20.1-8.39.jar",
-      "size": 745947
+      "path": "mods/Connector-1.0.0-beta.48+1.20.1.jar",
+      "sha1": "3c9682a67439519f731a7a9602241366af7f9fcc",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Connector-1.0.0-beta.48+1.20.1.jar",
+      "size": 5043870
     },
     {
-      "path": "mods/compatdelight-1.0.1.1.jar",
-      "sha1": "b494f8e95baceb6606986a93849d6dd7f535ea45",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/compatdelight-1.0.1.1.jar",
-      "size": 2081238
+      "path": "mods/ConnectorExtras-1.11.2+1.20.1.jar",
+      "sha1": "9336db4e6ce458bccf7724c039f0371e822397ae",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/ConnectorExtras-1.11.2+1.20.1.jar",
+      "size": 182464
     },
     {
-      "path": "mods/Compat_FarmersDelight.jar",
-      "sha1": "8033b3054b6d4e49e3d49b2277cf6e7c047835f1",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Compat_FarmersDelight.jar",
-      "size": 32216
+      "path": "mods/continuity-3.0.0+1.20.1.forge.jar",
+      "sha1": "816c1bb15c3686f67143dabced87bd4811cc43d2",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/continuity-3.0.0+1.20.1.forge.jar",
+      "size": 1016666
     },
     {
-      "path": "mods/Connector-1.0.0-beta.49+1.20.1.jar",
-      "sha1": "2b167110353c0622939a674b80ae35b1ed6b5625",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Connector-1.0.0-beta.49+1.20.1.jar",
-      "size": 5046109
+      "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
+      "sha1": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Controlling-forge-1.20.1-12.0.2.jar",
+      "size": 115280
     },
     {
-      "path": "mods/crabbersdelight-1.20.1-1.2.3.jar",
-      "sha1": "30c4aeed44a5302ebea5c3ce98fdd73dfbded868",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/crabbersdelight-1.20.1-1.2.3.jar",
-      "size": 619166
+      "path": "mods/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+      "sha1": "f2324c43cd0bbb856b115ce1a688c33bff999294",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+      "size": 1143788
     },
     {
-      "path": "mods/create-1.20.1-6.0.8.jar",
-      "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/create-1.20.1-6.0.8.jar",
-      "size": 19170905
+      "path": "mods/Cucumber-1.20.1-7.0.16.jar",
+      "sha1": "88a9ec30e4acb5c80a3ae060ad70b79e945293c6",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Cucumber-1.20.1-7.0.16.jar",
+      "size": 271462
     },
     {
-      "path": "mods/create_central_kitchen-1.20.1-for-create-6.0.8-1.5.0.jar",
-      "sha1": "bb724b37b191f6bcbe1e6bc395742e50352e8dbc",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/create_central_kitchen-1.20.1-for-create-6.0.8-1.5.0.jar",
-      "size": 835363
-    },
-    {
-      "path": "mods/ctov-3.3.3.jar",
-      "sha1": "0320991b7db36e841e1351551238f447c557cb4b",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/ctov-3.3.3.jar",
-      "size": 4281222
-    },
-    {
-      "path": "mods/ctov-chefs-delight-compat-2.0.jar",
-      "sha1": "6121998a194a0f423ba3bf199110d98f95dfb2fd",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/ctov-chefs-delight-compat-2.0.jar",
-      "size": 100334
-    },
-    {
-      "path": "mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
-      "sha1": "71b1603071461e036a3ba2aaeeb52cc10fa3d348",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
-      "size": 22474
-    },
-    {
-      "path": "mods/culturaldelights-0.16.7.jar",
-      "sha1": "20288317274a146267a0cc8c19dcc8898cb71c0a",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/culturaldelights-0.16.7.jar",
-      "size": 267386
+      "path": "mods/Cuffed-1.20.1-1.3.13.jar",
+      "sha1": "e8317997e81da1e05526d69f5aefe2f6a51c3636",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Cuffed-1.20.1-1.3.13.jar",
+      "size": 871742
     },
     {
       "path": "mods/curios-forge-5.14.1+1.20.1.jar",
@@ -219,58 +195,34 @@
       "size": 398066
     },
     {
-      "path": "mods/Delightful-1.20.1-3.8.1.jar",
-      "sha1": "4fff88037d3535158e0ab19525887768e9fc647a",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Delightful-1.20.1-3.8.1.jar",
-      "size": 1774007
+      "path": "mods/cwb-forge-3.0.0+mc1.20.jar",
+      "sha1": "f13cdf747b7f97a27f0a365f8390a72e3ea5fe99",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/cwb-forge-3.0.0+mc1.20.jar",
+      "size": 258613
     },
     {
-      "path": "mods/delightfulburgers-1.20.1.jar",
-      "sha1": "6cb9c2a1486e63b9a7225c8ea02654a0d9b84ee4",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/delightfulburgers-1.20.1.jar",
-      "size": 15907
+      "path": "mods/cybercallsystem-forge-1.0.jar",
+      "sha1": "ef405adda24b84247740bf8e8aeecf666fac8eb7",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/cybercallsystem-forge-1.0.jar",
+      "size": 336848
     },
     {
-      "path": "mods/delightfulcreators-1.1.8.jar",
-      "sha1": "297fb89cf2f159c3172664b5e82a9364e9028862",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/delightfulcreators-1.1.8.jar",
-      "size": 355042
+      "path": "mods/CyberUtils-forge-1.0.jar",
+      "sha1": "34ccae225724fca77c85b79100071b864ef62f26",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/CyberUtils-forge-1.0.jar",
+      "size": 5297012
     },
     {
-      "path": "mods/delightfulsandwich-1.20.1.jar",
-      "sha1": "ebd56e042a32bf9adaa696b2f548b0171d8672ff",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/delightfulsandwich-1.20.1.jar",
-      "size": 19574
+      "path": "mods/dynamic-fps-3.9.5+minecraft-1.20.0-forge.jar",
+      "sha1": "a034d1752abd84dc188852dac1ef87fb8ab2247a",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/dynamic-fps-3.9.5+minecraft-1.20.0-forge.jar",
+      "size": 376061
     },
     {
-      "path": "mods/delightful_slaughter-1.0-1.20.1.jar",
-      "sha1": "faaf9454eee75beca14e9e0f4da6f4beb0e68873",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/delightful_slaughter-1.0-1.20.1.jar",
-      "size": 252325
-    },
-    {
-      "path": "mods/delightlib-26.05.18-1.20-forge.jar",
-      "sha1": "76dadc17034ef4603f9ffb433dc01c5f770aa59d",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/delightlib-26.05.18-1.20-forge.jar",
-      "size": 59764
-    },
-    {
-      "path": "mods/displaydelight-1.7.0.jar",
-      "sha1": "ee5cd8126ec4053a6a50ae1f2af434b91ab6d42e",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/displaydelight-1.7.0.jar",
-      "size": 1163304
-    },
-    {
-      "path": "mods/Dumplings Delight-1.20.1-Forge-1.3.2.jar",
-      "sha1": "5e2e4cb2ed140f27c5a07daea0ec0881ae3b5327",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Dumplings Delight-1.20.1-Forge-1.3.2.jar",
-      "size": 305569
-    },
-    {
-      "path": "mods/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
-      "sha1": "43b3e0766a9e7a30651cc01756476657b865b7a2",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
-      "size": 402345
+      "path": "mods/elevatorid-1.20.1-1.9.1-forge.jar",
+      "sha1": "9117fbb20ce0b3b9abd25e19b3d5987a53be30c9",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/elevatorid-1.20.1-1.9.1-forge.jar",
+      "size": 187868
     },
     {
       "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
@@ -285,28 +237,28 @@
       "size": 680255
     },
     {
-      "path": "mods/entityculling-forge-1.10.5-mc1.20.1.jar",
-      "sha1": "b818f6d792b79f4ec116c89704e70292bd6f72b5",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/entityculling-forge-1.10.5-mc1.20.1.jar",
-      "size": 1590221
+      "path": "mods/entityculling-forge-1.9.3-mc1.20.1.jar",
+      "sha1": "8faea4818faab6b870ee370b52434b016542b519",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/entityculling-forge-1.9.3-mc1.20.1.jar",
+      "size": 477884
     },
     {
-      "path": "mods/Essential_1-4-1_forge_1-20-1.jar",
-      "sha1": "c2d7336f937fb5811417c6f503fffcdb510ef982",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Essential_1-4-1_forge_1-20-1.jar",
-      "size": 51977010
+      "path": "mods/explosionbreaksnoblock-forge-0.3.2+1.20.1.jar",
+      "sha1": "01bd44b2e96fc5ac2401028fa6356909778c76ac",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/explosionbreaksnoblock-forge-0.3.2+1.20.1.jar",
+      "size": 23403
     },
     {
-      "path": "mods/exposure-forge-1.20.1-1.9.21.jar",
-      "sha1": "39bd780eec2f22b3f9c9324b5e1c1b0c206e64a6",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/exposure-forge-1.20.1-1.9.21.jar",
-      "size": 2249297
+      "path": "mods/exposure-forge-1.20.1-1.9.20.jar",
+      "sha1": "043407042adf752c896f5be123676d702a843457",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/exposure-forge-1.20.1-1.9.20.jar",
+      "size": 2249505
     },
     {
-      "path": "mods/exposure_catalog-forge-1.20.1-1.1.1.jar",
-      "sha1": "652fb3e1942c9069a2071316d02eacfab2653aa5",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/exposure_catalog-forge-1.20.1-1.1.1.jar",
-      "size": 330210
+      "path": "mods/extrakeybinds-0.5.0+1.17-1.19.4.jar",
+      "sha1": "8443586048b6e43253bb05a0db10b52becc6faf2",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/extrakeybinds-0.5.0+1.17-1.19.4.jar",
+      "size": 20409
     },
     {
       "path": "mods/extrapanic-1.0.1.jar",
@@ -315,40 +267,22 @@
       "size": 12343
     },
     {
-      "path": "mods/fabric-api-0.85.0+1.20.1.jar",
-      "sha1": "02ae17b8122b176f2884cae49af440e27bee7161",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/fabric-api-0.85.0+1.20.1.jar",
-      "size": 1977969
-    },
-    {
       "path": "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
       "sha1": "285c22b2567b9fdf98ef9808eceb5557de9611d3",
       "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/fabric-api-0.92.6+1.11.14+1.20.1.jar",
       "size": 3065813
     },
     {
-      "path": "mods/fancymenu_forge_3.9.8_MC_1.20.1.jar",
-      "sha1": "38d9f5c56d5d2075264e3997b534b4709026088b",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/fancymenu_forge_3.9.8_MC_1.20.1.jar",
-      "size": 25772373
+      "path": "mods/FarmersDelight-1.20.1-1.2.9.jar",
+      "sha1": "ca9417c369e75d38dacdac59937223e5f6adcc18",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/FarmersDelight-1.20.1-1.2.9.jar",
+      "size": 2978080
     },
     {
-      "path": "mods/FarmersDelight-1.20.1-1.3.2.jar",
-      "sha1": "397763ae36dc2e0f526e0338c875850437580157",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/FarmersDelight-1.20.1-1.3.2.jar",
-      "size": 3313327
-    },
-    {
-      "path": "mods/farmersrespite-1.20.1-2.1.2.jar",
-      "sha1": "9ae5bc246cb1a8f3573ab685a4e9ddfaf869e2de",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/farmersrespite-1.20.1-2.1.2.jar",
-      "size": 537307
-    },
-    {
-      "path": "mods/fast-ip-ping-v1.0.11-mc1.20.4-forge.jar",
-      "sha1": "0499d46875bce1bffb1978ff775a77b13363aa22",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/fast-ip-ping-v1.0.11-mc1.20.4-forge.jar",
-      "size": 10408
+      "path": "mods/fast-ip-ping-v1.0.7-mc1.20.4-forge.jar",
+      "sha1": "253d21fd87657e6dc1e451c9758f5daaa71b86c8",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/fast-ip-ping-v1.0.7-mc1.20.4-forge.jar",
+      "size": 10557
     },
     {
       "path": "mods/fastboot-1.20.x-1.2.jar",
@@ -381,94 +315,160 @@
       "size": 123034
     },
     {
-      "path": "mods/festive_delight-2.0.0-forge-1.20.1.jar",
-      "sha1": "445d002a5e15e231f4489858543ac1bc40d6291d",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/festive_delight-2.0.0-forge-1.20.1.jar",
-      "size": 267057
-    },
-    {
       "path": "mods/figura-0.1.6+1.20.1-forge-mc.jar",
       "sha1": "72a64c2dbbe2e047d03487ef52ae281047beb1af",
       "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/figura-0.1.6+1.20.1-forge-mc.jar",
       "size": 2401921
     },
     {
-      "path": "mods/frycooks_delight-1.20.1-1.0.1.jar",
-      "sha1": "bf86c4f0679dffe23cfb2d50f5b0669c8427d1ed",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/frycooks_delight-1.20.1-1.0.1.jar",
-      "size": 234489
+      "path": "mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+      "sha1": "41f146d16a37f62e84e60cab226058d1a87f9cec",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+      "size": 396628
     },
     {
-      "path": "mods/furnitury-3.0707-forge-1.20.1.jar",
-      "sha1": "a02ee5e4d78987c75ee3be0c4faad1b3fe3fbc80",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/furnitury-3.0707-forge-1.20.1.jar",
-      "size": 1601927
+      "path": "mods/forgenicknames-1.0.0.jar",
+      "sha1": "5725b2bd49678622e718a0c872edec418e6e8053",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/forgenicknames-1.0.0.jar",
+      "size": 34155
     },
     {
-      "path": "mods/fzzy_config-0.7.6+1.20.1+forge.jar",
-      "sha1": "2e9ca1c5f028c251e1bc18b9ebaa06d401c8e624",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/fzzy_config-0.7.6+1.20.1+forge.jar",
-      "size": 2374667
+      "path": "mods/fragmentlibs-forge-1.0.3.jar",
+      "sha1": "02d1f2e632b19afc915fbd410c7185ea65890d21",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/fragmentlibs-forge-1.0.3.jar",
+      "size": 32596
     },
     {
-      "path": "mods/handcrafted-forge-1.20.1-3.0.6.jar",
-      "sha1": "f1b9a009529134c736c59d6d192d53a4a25e5e5f",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/handcrafted-forge-1.20.1-3.0.6.jar",
-      "size": 7111059
+      "path": "mods/freecam-forge-1.2.1+1.20.jar",
+      "sha1": "e4224b56750a1fe3956ae73a65f4470be3e0df3b",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/freecam-forge-1.2.1+1.20.jar",
+      "size": 75389
     },
     {
-      "path": "mods/handoveryouritems-1.20.1-3.8.jar",
-      "sha1": "17a6f3d52b4cf7d5d29598a27a07c805831a99be",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/handoveryouritems-1.20.1-3.8.jar",
-      "size": 25790
+      "path": "mods/furnitureexpanded-forge-1.2+1.20.1.jar",
+      "sha1": "ef6c0bb323687d52d3a7baa5ef8db381f11536dc",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/furnitureexpanded-forge-1.2+1.20.1.jar",
+      "size": 508877
     },
     {
-      "path": "mods/hardcorerevival-forge-1.20.1-12.0.14.jar",
-      "sha1": "3adc7f26b74306606feee83e45f1b6faeb8ae783",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/hardcorerevival-forge-1.20.1-12.0.14.jar",
-      "size": 243520
+      "path": "mods/furnitury-3.0102-forge-1.20.1.jar",
+      "sha1": "2a2c5956a4416efee479adb3a2da9ac31b55b94a",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/furnitury-3.0102-forge-1.20.1.jar",
+      "size": 1547420
     },
     {
-      "path": "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
-      "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
-      "size": 532063
+      "path": "mods/fzzy_config-0.7.3+1.20.1+forge.jar",
+      "sha1": "e771e543e930bd7c733f803bdbc0d3f2ecfb46c4",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/fzzy_config-0.7.3+1.20.1+forge.jar",
+      "size": 2312969
     },
     {
-      "path": "mods/immersive_paintings-0.6.13+1.20.1-forge.jar",
-      "sha1": "3f2a668f2235a6a908fde545d140013456b5412f",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/immersive_paintings-0.6.13+1.20.1-forge.jar",
-      "size": 4856103
+      "path": "mods/geckolib-forge-1.20.1-4.8.2.jar",
+      "sha1": "395a9f21a36dc8466d67c2af67a904e7013460d1",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/geckolib-forge-1.20.1-4.8.2.jar",
+      "size": 1038979
     },
     {
-      "path": "mods/Jellyfishing-2.0.5.jar",
-      "sha1": "2a587b1ad0d3799ce42cad1a165aa183815b06b3",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Jellyfishing-2.0.5.jar",
-      "size": 21203260
+      "path": "mods/GPUTape-1.18x-1.21x-1.0.5.1.jar",
+      "sha1": "db4a84db628dd668e08898e42e881615d34f0629",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/GPUTape-1.18x-1.21x-1.0.5.1.jar",
+      "size": 20295
     },
     {
-      "path": "mods/jellyfishingdelight-1.0.6.jar",
-      "sha1": "6b595ae47f5a47cdd8fa24164d949cc80496d8b4",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/jellyfishingdelight-1.0.6.jar",
-      "size": 258305
+      "path": "mods/grapplemod-1.8+1.20(.1).jar",
+      "sha1": "868d6d1de7a9c9af71613d744972e81ac1e5047b",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/grapplemod-1.8+1.20(.1).jar",
+      "size": 598203
     },
     {
-      "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-      "sha1": "2019d821bed9071daabed43979433a5473ceee49",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-      "size": 625185
+      "path": "mods/guccivuitton-1.20.1-0.2.2.jar",
+      "sha1": "59e5ef296ff50bd1f0feaccc1ab7262a65b5429f",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/guccivuitton-1.20.1-0.2.2.jar",
+      "size": 1598544
     },
     {
-      "path": "mods/kotlinforforge-4.12.0-all.jar",
-      "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/kotlinforforge-4.12.0-all.jar",
-      "size": 7442998
+      "path": "mods/handoveryouritems-1.20.1-3.6.jar",
+      "sha1": "9751911d031899aa00521b31ecc91755d3f2f73c",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/handoveryouritems-1.20.1-3.6.jar",
+      "size": 26087
     },
     {
-      "path": "mods/Krypton Reno-forge-1.20.1-26.1.1-1.20.1.jar",
-      "sha1": "bfa957bfa1f477f2cba4bd7fdf0e803095f80621",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Krypton Reno-forge-1.20.1-26.1.1-1.20.1.jar",
-      "size": 1793920
+      "path": "mods/hardcorerevival-forge-1.20.1-12.0.11.jar",
+      "sha1": "34f683de3e964ca441c17d0b4e8d6538c66758e3",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/hardcorerevival-forge-1.20.1-12.0.11.jar",
+      "size": 233086
+    },
+    {
+      "path": "mods/holdmyitems-1.20.1-4v2.0.jar",
+      "sha1": "a7d8354adb258be8d57c344a40dd1873647868ea",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/holdmyitems-1.20.1-4v2.0.jar",
+      "size": 100362
+    },
+    {
+      "path": "mods/hoverskate-forge-1.0.jar",
+      "sha1": "2bf8f3e9f08daa7acbe41568bf318119b7952936",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/hoverskate-forge-1.0.jar",
+      "size": 91656
+    },
+    {
+      "path": "mods/ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
+      "sha1": "2eeca5deb063ed49bb9c6be8b162ca6270202239",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
+      "size": 425140
+    },
+    {
+      "path": "mods/immersive_paintings-0.6.11+1.20.1-forge.jar",
+      "sha1": "99ffd1b03beb8a0ef362baf89cc25cc5c24afe14",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/immersive_paintings-0.6.11+1.20.1-forge.jar",
+      "size": 4855090
+    },
+    {
+      "path": "mods/inv_view_forge-2.1.0-1.20.1.jar",
+      "sha1": "1de4e82a887438ff1ea3030b1182391218d6de32",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/inv_view_forge-2.1.0-1.20.1.jar",
+      "size": 85516
+    },
+    {
+      "path": "mods/iwannaskate-1.2.0.jar",
+      "sha1": "13d32a92909c7079d7e18598f42dbfe1497b40cf",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/iwannaskate-1.2.0.jar",
+      "size": 1461417
+    },
+    {
+      "path": "mods/Jade-1.20.1-Forge-11.13.2.jar",
+      "sha1": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Jade-1.20.1-Forge-11.13.2.jar",
+      "size": 552486
+    },
+    {
+      "path": "mods/keybindnonconflict-forge-1.0.jar",
+      "sha1": "a7c07ba70308d42020a55541bef90532238bf18e",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/keybindnonconflict-forge-1.0.jar",
+      "size": 6693
+    },
+    {
+      "path": "mods/kotlinforforge-4.11.0-all.jar",
+      "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/kotlinforforge-4.11.0-all.jar",
+      "size": 7193768
+    },
+    {
+      "path": "mods/languagereload-forge-1.20.1-1.0.1-all.jar",
+      "sha1": "4a07f7eb0b8bb7055c90f213841cf8df8c037f50",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/languagereload-forge-1.20.1-1.0.1-all.jar",
+      "size": 201732
+    },
+    {
+      "path": "mods/Lazr's Lib-1.20-1.1.1.jar",
+      "sha1": "2be2715b4ed23d943533e5bff0929ac6ba271759",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Lazr's Lib-1.20-1.1.1.jar",
+      "size": 120029
+    },
+    {
+      "path": "mods/LenlorSKIN-forge-1.0.jar",
+      "sha1": "b3d4d5f65c2f918083b792bdd707c58d010ab9ce",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/LenlorSKIN-forge-1.0.jar",
+      "size": 140721
     },
     {
       "path": "mods/letsdo-bakery-forge-2.0.6.jar",
@@ -477,22 +477,16 @@
       "size": 1222186
     },
     {
-      "path": "mods/letsdo-brewery-forge-2.0.6.jar",
-      "sha1": "ce364781ec9accfdd5bb04f8280ffb542243b1ae",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/letsdo-brewery-forge-2.0.6.jar",
-      "size": 2048413
-    },
-    {
-      "path": "mods/letsdo-candlelight-forge-2.0.5.jar",
-      "sha1": "67b5560125db588cb1d87c042cc9dce9833861d7",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/letsdo-candlelight-forge-2.0.5.jar",
-      "size": 2507744
-    },
-    {
       "path": "mods/letsdo-farm_and_charm-forge-1.0.14.jar",
       "sha1": "4db017c18fff8356e1aa5f0e9c683f1af30bec2b",
       "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/letsdo-farm_and_charm-forge-1.0.14.jar",
       "size": 2328624
+    },
+    {
+      "path": "mods/letsdo-herbalbrews-forge-1.0.12.jar",
+      "sha1": "3de7feb383868a0db45351580d6ef5b05b776f16",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/letsdo-herbalbrews-forge-1.0.12.jar",
+      "size": 735868
     },
     {
       "path": "mods/letsdo-vinery-forge-1.4.41.jar",
@@ -501,22 +495,22 @@
       "size": 2041283
     },
     {
-      "path": "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
-      "sha1": "fe6a9eb2fbc78300a6286fd25854c9f087e689a6",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/mcw-doors-1.1.5-mc1.20.1forge.jar",
-      "size": 1246753
+      "path": "mods/lrtactical-1.20.1-0.3.0.jar",
+      "sha1": "8635295da336878f6bb5d0a2ef2c1709200e43ec",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/lrtactical-1.20.1-0.3.0.jar",
+      "size": 5193935
     },
     {
-      "path": "mods/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
-      "sha1": "214da89b2153d496343bde8626283975e358edbd",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
-      "size": 1320692
+      "path": "mods/mcw-doors-1.1.2-mc1.20.1forge.jar",
+      "sha1": "731069f0a9c1377da0681415b6523e71439ae014",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/mcw-doors-1.1.2-mc1.20.1forge.jar",
+      "size": 1250199
     },
     {
-      "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-      "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-      "size": 37178
+      "path": "mods/mcw-mcwwindows-2.4.1-mc1.20.1forge.jar",
+      "sha1": "5f19b5765ca9ede4f0a5d9bf0218bd469d0b2b7b",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/mcw-mcwwindows-2.4.1-mc1.20.1forge.jar",
+      "size": 1320952
     },
     {
       "path": "mods/memoryleakfix-forge-1.17+-1.1.5.jar",
@@ -525,22 +519,34 @@
       "size": 227925
     },
     {
-      "path": "mods/modernfix-forge-5.27.66+mc1.20.1.jar",
-      "sha1": "322fdb7aadc06b540cff69a2a0a513bf37050f0f",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/modernfix-forge-5.27.66+mc1.20.1.jar",
-      "size": 1002234
+      "path": "mods/mobplayeranimator-forge-1.20.1-1.3.3-all.jar",
+      "sha1": "5767ecee24e34efb138403a45de1589e38ddc624",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/mobplayeranimator-forge-1.20.1-1.3.3-all.jar",
+      "size": 223397
     },
     {
-      "path": "mods/moonlight-1.20-2.16.34-forge.jar",
-      "sha1": "5e20f2f0ce56a534accb32f80853d5a246599a4d",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/moonlight-1.20-2.16.34-forge.jar",
-      "size": 1419416
+      "path": "mods/modefite_item_definitions-1.0.3+1.20.1.jar",
+      "sha1": "d053d5ca7f61652446d54c400500733297460282",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/modefite_item_definitions-1.0.3+1.20.1.jar",
+      "size": 189936
     },
     {
-      "path": "mods/moredelight-26.05.20-1.20-forge.jar",
-      "sha1": "42a481b7273aa19d57ea63a89fc100558d1844e4",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/moredelight-26.05.20-1.20-forge.jar",
-      "size": 144021
+      "path": "mods/modernfix-forge-5.25.1+mc1.20.1.jar",
+      "sha1": "124ea5db8c3b7dc00166806ef0fc412177882fda",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/modernfix-forge-5.25.1+mc1.20.1.jar",
+      "size": 895267
+    },
+    {
+      "path": "mods/modrlATPOfficial-1.0.0 (2).jar",
+      "sha1": "239a119b7b3273162052993acde0fb7dc0e80d23",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/modrlATPOfficial-1.0.0 (2).jar",
+      "size": 10729342
+    },
+    {
+      "path": "mods/moonlight-1.20-2.16.19-forge.jar",
+      "sha1": "de55e348bdf3a3ac7520fde157654d615967f9b1",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/moonlight-1.20-2.16.19-forge.jar",
+      "size": 1354950
     },
     {
       "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
@@ -549,10 +555,22 @@
       "size": 76237
     },
     {
-      "path": "mods/muffins-thai-delight-forge-1.0.0.jar",
-      "sha1": "b34356aad368606e0e8ff85ec59fa7d523680e57",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/muffins-thai-delight-forge-1.0.0.jar",
-      "size": 624367
+      "path": "mods/NeonLight-1.4.jar",
+      "sha1": "7d521666546b9ff3378e1bccb2953e2c1511a9c3",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/NeonLight-1.4.jar",
+      "size": 1567127
+    },
+    {
+      "path": "mods/nirvana-forge-1.2.5.jar",
+      "sha1": "19137093cfdbb3bc71b74c39b6697c9ed5e1224e",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/nirvana-forge-1.2.5.jar",
+      "size": 2771950
+    },
+    {
+      "path": "mods/numismaticoverhaul-1.20.1-2.0.1.jar",
+      "sha1": "f39e3c528a45851bd2839a2ff2d3dfb51c3e5c65",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/numismaticoverhaul-1.20.1-2.0.1.jar",
+      "size": 847926
     },
     {
       "path": "mods/oculus-mc1.20.1-1.8.0.jar",
@@ -561,28 +579,70 @@
       "size": 2851119
     },
     {
+      "path": "mods/online-emotes-2.1.2-forge.jar",
+      "sha1": "0e0a2dd06ed50f79dfaa384624685f818c2d4aa2",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/online-emotes-2.1.2-forge.jar",
+      "size": 782231
+    },
+    {
+      "path": "mods/origins-forge-1.20.1-1.10.0.9-all.jar",
+      "sha1": "71af2b5fa4d2905ab71ca7c488a508dba277f109",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/origins-forge-1.20.1-1.10.0.9-all.jar",
+      "size": 2307868
+    },
+    {
+      "path": "mods/packetfixer-3.3.1-1.18-1.20.4-merged.jar",
+      "sha1": "0bef29023c8cadb2934d78a8b0066b49d4460974",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/packetfixer-3.3.1-1.18-1.20.4-merged.jar",
+      "size": 188673
+    },
+    {
+      "path": "mods/ParCool-1.20.1-3.4.1.5.jar",
+      "sha1": "ad61d32c5185bd9daa43722657af3a8a5aa751a0",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/ParCool-1.20.1-3.4.1.5.jar",
+      "size": 1133021
+    },
+    {
+      "path": "mods/particle_core-0.2.6+1.20.1+forge.jar",
+      "sha1": "91f302ab9b85016aeb3a9a0e85b80650a1d2e984",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/particle_core-0.2.6+1.20.1+forge.jar",
+      "size": 97943
+    },
+    {
       "path": "mods/Pehkui-3.8.2+1.20.1-forge.jar",
       "sha1": "4bc816efdd8e5e2a97423313674401351710e403",
       "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Pehkui-3.8.2+1.20.1-forge.jar",
       "size": 671605
     },
     {
-      "path": "mods/pizzadelight-1.0.1-1.20.1.jar",
-      "sha1": "ff0452c626becc214f9ae45d0a9073aac77811df",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/pizzadelight-1.0.1-1.20.1.jar",
-      "size": 65699
-    },
-    {
-      "path": "mods/plasmovoice-forge-1.20.1-2.1.13.jar",
-      "sha1": "1c9e872e8873bc8bbcf84166beaeb0259dda10e3",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/plasmovoice-forge-1.20.1-2.1.13.jar",
-      "size": 12299890
+      "path": "mods/plasmovoice-forge-1.20.1-2.1.9.jar",
+      "sha1": "f8196a73c14410fe8a03758639397bc2cd3509e3",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/plasmovoice-forge-1.20.1-2.1.9.jar",
+      "size": 12235357
     },
     {
       "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
       "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
       "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
       "size": 181437
+    },
+    {
+      "path": "mods/playingcards-2.0.1 (1).jar",
+      "sha1": "8d590a5b33cf9ffa72f0a27e6cc9f863da716067",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/playingcards-2.0.1 (1).jar",
+      "size": 178633
+    },
+    {
+      "path": "mods/playingcards-2.0.1.jar",
+      "sha1": "8d590a5b33cf9ffa72f0a27e6cc9f863da716067",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/playingcards-2.0.1.jar",
+      "size": 178633
+    },
+    {
+      "path": "mods/polytone-1.20-3.5.22.jar",
+      "sha1": "5f33cf437662dd8048c29f98f15c4780a961bf68",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/polytone-1.20-3.5.22.jar",
+      "size": 1167608
     },
     {
       "path": "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
@@ -609,82 +669,118 @@
       "size": 17002
     },
     {
-      "path": "mods/Quick Skin - Forge - 1.20.1-2.6.2.4.jar",
-      "sha1": "ace85ce63a791ae84d323d469d0b76003ab32718",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Quick Skin - Forge - 1.20.1-2.6.2.4.jar",
-      "size": 3793684
-    },
-    {
-      "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
-      "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
-      "size": 713454
-    },
-    {
-      "path": "mods/RamadanDelight-1.20.1-1.7.jar",
-      "sha1": "1dd2dca458013f3ce3e0e8e9c44b36b8c8dda3af",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/RamadanDelight-1.20.1-1.7.jar",
-      "size": 529603
-    },
-    {
-      "path": "mods/recipe_modification-neoforge-1.20.1-0.1.1.jar",
-      "sha1": "36303a0050fa2ee1e84f2aa9e3db68b0f1cc554c",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/recipe_modification-neoforge-1.20.1-0.1.1.jar",
-      "size": 55164
-    },
-    {
       "path": "mods/redeco-1.14.1-forge-1.20.1.jar",
       "sha1": "edbdd3ecfacb8bec82cb42878e3999582c3bd53d",
       "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/redeco-1.14.1-forge-1.20.1.jar",
       "size": 3216552
     },
     {
-      "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
-      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/resourcefullib-forge-1.20.1-2.1.29.jar",
-      "size": 432753
+      "path": "mods/Saros-Money-Mod.1.20.1-3.5.5.jar",
+      "sha1": "d74c25bb7421efefd11f2e4d93853931745e6c7a",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Saros-Money-Mod.1.20.1-3.5.5.jar",
+      "size": 355283
     },
     {
-      "path": "mods/rusticdelight-forge-1.20.1-1.6.1.jar",
-      "sha1": "b86a272376b2b4aa8af88b973c67d01aac01d883",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/rusticdelight-forge-1.20.1-1.6.1.jar",
-      "size": 565773
+      "path": "mods/SaveResourceServer-forge-1.0.jar",
+      "sha1": "06048f5b74db75baef8db2baad28b6544ef7fb43",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/SaveResourceServer-forge-1.0.jar",
+      "size": 11164
     },
     {
-      "path": "mods/SeedDelight-NeoorForge-1.20.1-1.0.1 (1).jar",
-      "sha1": "4e3fe5b22cc6d0fac4863b61f4692a59bf233855",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/SeedDelight-NeoorForge-1.20.1-1.0.1 (1).jar",
-      "size": 95795
+      "path": "mods/sdm_ui_lib-forge-1.20.1-1.8.3.jar",
+      "sha1": "ced6c96091b9368e9a89487f0c5f0ae95088140a",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/sdm_ui_lib-forge-1.20.1-1.8.3.jar",
+      "size": 261631
     },
     {
-      "path": "mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
-      "sha1": "3fd79132dba444bd109b5de4ad75dee06a48e130",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
-      "size": 41044
+      "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
+      "sha1": "5b976f6e76ec74cdef21865e31f56bcb11558db7",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Searchables-forge-1.20.1-1.0.3.jar",
+      "size": 77732
     },
     {
-      "path": "mods/stackedblocks-25.02.13-1.20-forge.jar",
-      "sha1": "762060f6654637013d51cd85a5025a9c92d0f228",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/stackedblocks-25.02.13-1.20-forge.jar",
-      "size": 338388
+      "path": "mods/Simple Health Bar v1.0.2 [Forge 1.20.1].jar",
+      "sha1": "5d1af5c2acf6bf479f9238192df29eeb5e2e5cad",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Simple Health Bar v1.0.2 [Forge 1.20.1].jar",
+      "size": 45368
     },
     {
-      "path": "mods/stackedblocksfarmersdelight-25.02.13-1.20-forge.jar",
-      "sha1": "f5d669c70e53eeb2618e2c445a9758f95a2a5f70",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/stackedblocksfarmersdelight-25.02.13-1.20-forge.jar",
-      "size": 349319
+      "path": "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "sha1": "d27524e85bed0f0af83c03be46f9ca3eb02a1be9",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "size": 511601
     },
     {
-      "path": "mods/trailandtales_delight-1.7-all.jar",
-      "sha1": "e466d0a5d471220a329421c4f608814b45f6a43d",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/trailandtales_delight-1.7-all.jar",
-      "size": 531393
+      "path": "mods/sodiumextras-forge-1.0.7-1.20.1.jar",
+      "sha1": "7603f44bc4750774fbbdc07a3153c391650fcf3d",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/sodiumextras-forge-1.0.7-1.20.1.jar",
+      "size": 438540
     },
     {
-      "path": "mods/ubesdelight-forge-1.20.1-0.4.14.jar",
-      "sha1": "3458c3f285b697f31c2c35a7c57806a01489b0fa",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/ubesdelight-forge-1.20.1-0.4.14.jar",
-      "size": 953622
+      "path": "mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "sha1": "7529fbf938787ed13a251cbf40936f8c29ec4b6c",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "size": 443978
+    },
+    {
+      "path": "mods/starlight-1.1.2+forge.1cda73c.jar",
+      "sha1": "a915880c7834a0b0f9f300f0e3053deaa9a3205a",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/starlight-1.1.2+forge.1cda73c.jar",
+      "size": 110583
+    },
+    {
+      "path": "mods/starutility-forge-1.0.0.jar",
+      "sha1": "9fdbdc2705695d49c175e9090f4d0ba79af25693",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/starutility-forge-1.0.0.jar",
+      "size": 652852
+    },
+    {
+      "path": "mods/superbwarfare-1.20.1-0.8.7-final-d6ea9a72b.jar",
+      "sha1": "881f29d4fa984bc18a5f846226088606e370e95b",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/superbwarfare-1.20.1-0.8.7-final-d6ea9a72b.jar",
+      "size": 23552579
+    },
+    {
+      "path": "mods/SurgicalCraft-1.0.0 (2).jar",
+      "sha1": "24e9032e5240c8eaeae4d7f915028f436187e6d0",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/SurgicalCraft-1.0.0 (2).jar",
+      "size": 54110
+    },
+    {
+      "path": "mods/table_top_craft-forge-1.20.1-6.1.2 (1).jar",
+      "sha1": "c833b6cc08573029670cee326cb684c2ba344818",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/table_top_craft-forge-1.20.1-6.1.2 (1).jar",
+      "size": 1466790
+    },
+    {
+      "path": "mods/tacz-1.20.1-1.1.6-hotfix.jar",
+      "sha1": "e951d81b5f452bcad47c20d5b491fd26f8de8ce2",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/tacz-1.20.1-1.1.6-hotfix.jar",
+      "size": 47826468
+    },
+    {
+      "path": "mods/tacz-tweaks-2.10.0-all.jar",
+      "sha1": "204a636d7e84ba8631c15f11f84be8c635e7ab4f",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/tacz-tweaks-2.10.0-all.jar",
+      "size": 1737843
+    },
+    {
+      "path": "mods/taczaddon-1.20.1-1.1.5-for1.1.5.jar",
+      "sha1": "50029fd48a5061f0c59041429fe636d3277b4256",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/taczaddon-1.20.1-1.1.5-for1.1.5.jar",
+      "size": 100957
+    },
+    {
+      "path": "mods/TaCZCyberFix-forge-1.0.jar",
+      "sha1": "70aa2c41e7dd7cef5e7790db68d51a476d4e9be3",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/TaCZCyberFix-forge-1.0.jar",
+      "size": 23558
+    },
+    {
+      "path": "mods/tacz_fire_control_extension-1.1.3+mc1.20.1+tacz1.1.4.jar",
+      "sha1": "e34f1b8b84ee2853c4a146e4d3077f1c3a2d9e41",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/tacz_fire_control_extension-1.1.3+mc1.20.1+tacz1.1.4.jar",
+      "size": 294202
     },
     {
       "path": "mods/unusual_furniture-1.1.1-forge-1.20.1.jar",
@@ -693,28 +789,40 @@
       "size": 2907462
     },
     {
-      "path": "mods/vegandelight-2.0.0-beta4.jar",
-      "sha1": "2ffb57dc3f0f0c3de1be2871df4c0f8e7a7933df",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/vegandelight-2.0.0-beta4.jar",
-      "size": 193512
+      "path": "mods/VFXLoader-forge-1.0 (1).jar",
+      "sha1": "0fecb69a165ee64db414a96ac351f706c26895ed",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/VFXLoader-forge-1.0 (1).jar",
+      "size": 32020
     },
     {
-      "path": "mods/VeggiesDelight-1.20.1-1.9.3.jar",
-      "sha1": "783d60320cb58c677197bcebf5db72d0c1c7a727",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/VeggiesDelight-1.20.1-1.9.3.jar",
-      "size": 598808
+      "path": "mods/vmp-fabric-mc1.20.1-0.2.0+beta.7.101-all.jar",
+      "sha1": "529e3447d9f9c18dda950a6460a589bdeafc08a4",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/vmp-fabric-mc1.20.1-0.2.0+beta.7.101-all.jar",
+      "size": 452457
     },
     {
-      "path": "mods/vintagedelight-0.1.6.jar",
-      "sha1": "279a68afc8d815e957cabc689e925cdaf7578109",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/vintagedelight-0.1.6.jar",
-      "size": 1120218
+      "path": "mods/waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+      "sha1": "b8683a49deee67a153bdc647ad70b5fc464b2b23",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+      "size": 255481
     },
     {
-      "path": "mods/vminus-3.3.2.jar",
-      "sha1": "2fcc79a165f88621bd6aa27827422ea36f07b3cc",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/vminus-3.3.2.jar",
-      "size": 1221242
+      "path": "mods/watermedia-2.1.37.jar",
+      "sha1": "4a91d20d9a3aa8d66e01f7962d77c974ad538f4f",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/watermedia-2.1.37.jar",
+      "size": 37046674
+    },
+    {
+      "path": "mods/watermedia_youtube_plugin-2.1.2.jar",
+      "sha1": "1f4d208ed9292189dd99147a9dae7c1d4bc95ad5",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/watermedia_youtube_plugin-2.1.2.jar",
+      "size": 3830072
+    },
+    {
+      "path": "mods/watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+      "sha1": "504baa01e0a46a878187faad3d99bf0c30d08e40",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+      "size": 82079
     },
     {
       "path": "mods/WI-Zoom-1.5-MC1.20.1-Forge.jar",
@@ -723,34 +831,46 @@
       "size": 141897
     },
     {
-      "path": "mods/worldedit-mod-7.2.15.jar",
-      "sha1": "9c52765ca56f917ef8cbafc20e9a4f45c346508f",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/worldedit-mod-7.2.15.jar",
-      "size": 5825402
+      "path": "mods/wm_binaries-3.0.0-rc.1.jar",
+      "sha1": "47864af0b432999cc057e8a459c1decf4b0ba053",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/wm_binaries-3.0.0-rc.1.jar",
+      "size": 179378119
     },
     {
-      "path": "mods/xaerominimap-forge-1.20.1-26.4.2.jar",
-      "sha1": "8f5f747a33e787aaa3827b00eb0ad098966499ff",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/xaerominimap-forge-1.20.1-26.4.2.jar",
-      "size": 2195245
+      "path": "mods/xaerominimap-forge-1.20.1-26.1.0.jar",
+      "sha1": "5b2be59a71add73676596d0d3350b832552bac70",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/xaerominimap-forge-1.20.1-26.1.0.jar",
+      "size": 2147158
     },
     {
-      "path": "mods/xaeroworldmap-forge-1.20.1-1.44.2.jar",
-      "sha1": "d7cd24554d9c361b2d8d3efac2cb1408f118917d",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/xaeroworldmap-forge-1.20.1-1.44.2.jar",
-      "size": 1421224
+      "path": "mods/xaeroworldmap-forge-1.20.1-1.41.0.jar",
+      "sha1": "f2c63673810ff7b87a7fee40d34e70a04fc80ef6",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/xaeroworldmap-forge-1.20.1-1.41.0.jar",
+      "size": 1389429
     },
     {
-      "path": "mods/yet-another-furniture-1.0pre3+forge-1.20.1.jar",
-      "sha1": "01df9a0b0e806f5735458b98bda50800a929fdef",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/yet-another-furniture-1.0pre3+forge-1.20.1.jar",
-      "size": 3977379
+      "path": "mods/xercapaint-1.20.1-1.1.0.jar",
+      "sha1": "278e859d83bc44325e7ad8ac3ccbbca75e115039",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/xercapaint-1.20.1-1.1.0.jar",
+      "size": 403594
     },
     {
-      "path": "mods/youkaisfeasts-0.5.0.jar",
-      "sha1": "a222d3f549eaa2f5245a183a52f2b108d3f75744",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/youkaisfeasts-0.5.0.jar",
-      "size": 4100077
+      "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "sha1": "644731e321c53a35a0b3177a3cc6347fe38002f4",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "size": 1105891
+    },
+    {
+      "path": "mods/[1.20.1] SecurityCraft v1.10.1.jar",
+      "sha1": "98e4af60aa0f272105b7ffcdf154d7ab670a73bc",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/[1.20.1] SecurityCraft v1.10.1.jar",
+      "size": 4769715
+    },
+    {
+      "path": "mods/[1.20.1][Forge] RPG-HUD-3.10.jar",
+      "sha1": "e03f5a2317635b3f637f40f76f8c4506c32ecd1a",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/[1.20.1][Forge] RPG-HUD-3.10.jar",
+      "size": 222680
     }
   ]
 }

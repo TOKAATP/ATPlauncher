@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "generatedAt": "2026-08-03T10:40:44.415Z",
+  "version": 4,
+  "generatedAt": "2026-08-03T11:01:56.565Z",
   "files": [
     {
       "path": "mods/aaa_particles-1.20.1-1.4.11-forge.jar",
@@ -319,6 +319,12 @@
       "sha1": "72a64c2dbbe2e047d03487ef52ae281047beb1af",
       "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/figura-0.1.6+1.20.1-forge-mc.jar",
       "size": 2401921
+    },
+    {
+      "path": "mods/forge-1.20.1-47.4.20-installer.jar",
+      "sha1": "237c5a17d941bfe793ff5780a4f330914d2c9f57",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/forge-1.20.1-47.4.20-installer.jar",
+      "size": 8835110
     },
     {
       "path": "mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",

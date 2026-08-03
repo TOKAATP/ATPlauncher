@@ -1,7 +1,19 @@
 {
-  "version": 4,
-  "generatedAt": "2026-08-03T11:01:56.565Z",
+  "version": 5,
+  "generatedAt": "2026-08-03T16:23:14.564Z",
   "files": [
+    {
+      "path": "mods/1.20.1-SecurityCraft-v1.10.1.jar",
+      "sha1": "98e4af60aa0f272105b7ffcdf154d7ab670a73bc",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/1.20.1-SecurityCraft-v1.10.1.jar",
+      "size": 4769715
+    },
+    {
+      "path": "mods/1.20.1Forge-RPG-HUD-3.10.jar",
+      "sha1": "e03f5a2317635b3f637f40f76f8c4506c32ecd1a",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/1.20.1Forge-RPG-HUD-3.10.jar",
+      "size": 222680
+    },
     {
       "path": "mods/aaa_particles-1.20.1-1.4.11-forge.jar",
       "sha1": "e046caeff220722933cb82097a62412d902f6002",
@@ -93,9 +105,9 @@
       "size": 330517
     },
     {
-      "path": "mods/BlockPops - Forge - 1.20.1-1.5.0.jar",
+      "path": "mods/BlockPops-Forge-1.20.1-1.5.0.jar",
       "sha1": "4356537932640456500f64acc46f26f54d466c97",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/BlockPops - Forge - 1.20.1-1.5.0.jar",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/BlockPops-Forge-1.20.1-1.5.0.jar",
       "size": 5537942
     },
     {
@@ -381,9 +393,9 @@
       "size": 20295
     },
     {
-      "path": "mods/grapplemod-1.8+1.20(.1).jar",
+      "path": "mods/grapplemod-1.8+1.20.1.jar",
       "sha1": "868d6d1de7a9c9af71613d744972e81ac1e5047b",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/grapplemod-1.8+1.20(.1).jar",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/grapplemod-1.8+1.20.1.jar",
       "size": 598203
     },
     {
@@ -465,9 +477,9 @@
       "size": 201732
     },
     {
-      "path": "mods/Lazr's Lib-1.20-1.1.1.jar",
+      "path": "mods/Lazrs-Lib-1.20-1.1.1.jar",
       "sha1": "2be2715b4ed23d943533e5bff0929ac6ba271759",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Lazr's Lib-1.20-1.1.1.jar",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Lazrs-Lib-1.20-1.1.1.jar",
       "size": 120029
     },
     {
@@ -543,9 +555,9 @@
       "size": 895267
     },
     {
-      "path": "mods/modrlATPOfficial-1.0.0 (2).jar",
+      "path": "mods/modrlATPOfficial-1.0.0-2.jar",
       "sha1": "239a119b7b3273162052993acde0fb7dc0e80d23",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/modrlATPOfficial-1.0.0 (2).jar",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/modrlATPOfficial-1.0.0-2.jar",
       "size": 10729342
     },
     {
@@ -633,9 +645,9 @@
       "size": 181437
     },
     {
-      "path": "mods/playingcards-2.0.1 (1).jar",
+      "path": "mods/playingcards-2.0.1-1.jar",
       "sha1": "8d590a5b33cf9ffa72f0a27e6cc9f863da716067",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/playingcards-2.0.1 (1).jar",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/playingcards-2.0.1-1.jar",
       "size": 178633
     },
     {
@@ -705,9 +717,9 @@
       "size": 77732
     },
     {
-      "path": "mods/Simple Health Bar v1.0.2 [Forge 1.20.1].jar",
+      "path": "mods/Simple-Health-Bar-v1.0.2-Forge-1.20.1.jar",
       "sha1": "5d1af5c2acf6bf479f9238192df29eeb5e2e5cad",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Simple Health Bar v1.0.2 [Forge 1.20.1].jar",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/Simple-Health-Bar-v1.0.2-Forge-1.20.1.jar",
       "size": 45368
     },
     {
@@ -747,15 +759,15 @@
       "size": 23552579
     },
     {
-      "path": "mods/SurgicalCraft-1.0.0 (2).jar",
+      "path": "mods/SurgicalCraft-1.0.0-2.jar",
       "sha1": "24e9032e5240c8eaeae4d7f915028f436187e6d0",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/SurgicalCraft-1.0.0 (2).jar",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/SurgicalCraft-1.0.0-2.jar",
       "size": 54110
     },
     {
-      "path": "mods/table_top_craft-forge-1.20.1-6.1.2 (1).jar",
+      "path": "mods/table_top_craft-forge-1.20.1-6.1.2-1.jar",
       "sha1": "c833b6cc08573029670cee326cb684c2ba344818",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/table_top_craft-forge-1.20.1-6.1.2 (1).jar",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/table_top_craft-forge-1.20.1-6.1.2-1.jar",
       "size": 1466790
     },
     {
@@ -795,9 +807,9 @@
       "size": 2907462
     },
     {
-      "path": "mods/VFXLoader-forge-1.0 (1).jar",
+      "path": "mods/VFXLoader-forge-1.0-1.jar",
       "sha1": "0fecb69a165ee64db414a96ac351f706c26895ed",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/VFXLoader-forge-1.0 (1).jar",
+      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/VFXLoader-forge-1.0-1.jar",
       "size": 32020
     },
     {
@@ -865,18 +877,6 @@
       "sha1": "644731e321c53a35a0b3177a3cc6347fe38002f4",
       "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
       "size": 1105891
-    },
-    {
-      "path": "mods/[1.20.1] SecurityCraft v1.10.1.jar",
-      "sha1": "98e4af60aa0f272105b7ffcdf154d7ab670a73bc",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/[1.20.1] SecurityCraft v1.10.1.jar",
-      "size": 4769715
-    },
-    {
-      "path": "mods/[1.20.1][Forge] RPG-HUD-3.10.jar",
-      "sha1": "e03f5a2317635b3f637f40f76f8c4506c32ecd1a",
-      "url": "https://github.com/TOKAATP/ATPlauncher/releases/download/v1/[1.20.1][Forge] RPG-HUD-3.10.jar",
-      "size": 222680
     }
   ]
 }
